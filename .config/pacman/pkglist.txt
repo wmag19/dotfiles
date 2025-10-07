@@ -170,6 +170,7 @@ snap-pac
 snapper
 sof-firmware
 spotify-launcher
+starship
 stow
 sudo
 swappy
