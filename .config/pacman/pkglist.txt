@@ -64,6 +64,7 @@ ffmpegthumbnailer
 firefox
 fsarchiver
 fwupd
+ghostty
 git
 github-cli
 glances
