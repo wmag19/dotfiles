@@ -182,6 +182,7 @@ systemd-boot-manager
 texinfo
 ttf-bitstream-vera
 ttf-dejavu
+ttf-firacode-nerd
 ttf-liberation
 ttf-meslo-nerd
 ttf-opensans
