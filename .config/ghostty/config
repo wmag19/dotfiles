@@ -58,7 +58,7 @@ window-padding-y = 2
 background-opacity = 0.8
 
 # Font
-font-family = monospace
+#font-family = monospace #Default is JetBrains Mono
 font-size = 12
 
 # Cursor
@@ -71,29 +71,30 @@ mouse-hide-while-typing = true
 # Scrollback
 scrollback-limit = 10000
 
-# Color scheme (Nord theme)
-background = 2e3440
-foreground = d8dee9
+#Catpuccin Macciato 
 
-# Normal colors
-palette = 0=#3b4252
-palette = 1=#bf616a
-palette = 2=#a3be8c
-palette = 3=#ebcb8b
-palette = 4=#81a1c1
-palette = 5=#b48ead
-palette = 6=#88c0d0
-palette = 7=#e5e9f0
-
-# Bright colors
-palette = 8=#4c566a
-palette = 9=#bf616a
-palette = 10=#a3be8c
-palette = 11=#ebcb8b
-palette = 12=#81a1c1
-palette = 13=#b48ead
-palette = 14=#8fbcbb
-palette = 15=#eceff4
+palette = 0=#494d64
+palette = 1=#ed8796
+palette = 2=#a6da95
+palette = 3=#eed49f
+palette = 4=#8aadf4
+palette = 5=#f5bde6
+palette = 6=#8bd5ca
+palette = 7=#a5adcb
+palette = 8=#5b6078
+palette = 9=#ed8796
+palette = 10=#a6da95
+palette = 11=#eed49f
+palette = 12=#8aadf4
+palette = 13=#f5bde6
+palette = 14=#8bd5ca
+palette = 15=#b8c0e0
+background = 24273a
+foreground = cad3f5
+cursor-color = f4dbd6
+cursor-text = 181926
+selection-background = 3a3e53
+selection-foreground = cad3f5
 
 # Clipboard
 clipboard-read = allow
